@@ -1,7 +1,6 @@
-import javax.sound.midi.Soundbank;
 import java.util.Scanner;
 
-public class Main {
+public class exemplo1 {
     public static void main(String[] args) {
 
     String nome;
