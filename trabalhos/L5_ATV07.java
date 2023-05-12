@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class L5_ATV7 {
+public class L5_ATV07 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         long num, somaTotal = 0, count = 0;

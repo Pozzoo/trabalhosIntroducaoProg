@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class L5_ATV6 {
+public class L5_ATV06 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
