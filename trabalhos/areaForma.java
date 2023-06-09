@@ -1,4 +1,4 @@
-import java.util.Scanner;
+/* import java.util.Scanner;
 
 public class areaForma {
     public static void main(String[] args) {
@@ -31,4 +31,4 @@ public class areaForma {
         }
         System.out.println("a área da figura é: " + area);
     }
-}
+} */

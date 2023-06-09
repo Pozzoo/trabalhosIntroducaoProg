@@ -35,7 +35,7 @@ public class P2_Q1 {
         return fitasEstraga;
     }
     public static float calcularReposicao(int fitasEstr, float valorFita){
-        float fitasR = (fitasEstr / 2) * valorFita;
+        float fitasR = (fitasEstr / 2f) * valorFita;
         return fitasR;
     }
     public static float calcularLucro(float receita, double despesa){
