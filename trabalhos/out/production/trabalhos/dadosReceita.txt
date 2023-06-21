@@ -1,4 +1,4 @@
 Meia - 50.0
-Saia - 175.0
-Calça - 1100.0
-Camisa - 150.0
+Camiseta - 175.0
+Calça - 890.0
+Camisa - 320.0
